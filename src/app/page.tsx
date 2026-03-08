@@ -136,7 +136,7 @@ export default function Home() {
       color: 'from-blue-400 to-cyan-500'
     },
     {
-      title: 'Runner\'s Up',
+      title: 'Runner&apos;s Up',
       event: 'Adobe India Hackathon– Connecting the Dots Challenge',
       icon: <Award className="w-6 h-6" />,
       color: 'from-orange-400 to-red-500'
